@@ -36,7 +36,7 @@ Live Demo
 - Add collaborators (groups of 2)
 - Clone the repository
 - Open the repository on VSCode
-- Make changes to the repository.
+- Make changes to the repository (target.md).
 - Pull the changes made by others.
 - Push to remote repository
 ```
@@ -73,7 +73,9 @@ Live Demo
 - Pull Requests
 - Issues
 - Community Convention:
+
 > [Check this](https://github.com/roerohan/vscode-MongoSnippets-NodeJS) for reference
+
     * Description (and Tags)
     * README
     * CONTRIBUTING
