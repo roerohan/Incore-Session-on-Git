@@ -12,7 +12,7 @@ Incore session on Git and GitHub.
 ## Requirements
 1. [git](https://git-scm.com/downloads)
 2. GitHub Account
-3. A Text Editor ([VSCode](#https://code.visualstudio.com/download)
+3. A Text Editor ([VSCode](#https://code.visualstudio.com/download))
 
 ## Why GitHub?
 - What is Git?
