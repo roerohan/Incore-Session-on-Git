@@ -4,7 +4,7 @@ Incore session on Git and GitHub.
 
 ## Table of Contents
 - [Requirements](#requirements)
-- [Why Git or GitHub](#why-git-or-github)
+- [Why Git or GitHub?](#why-git-or-github)
 - [Using Git](#using-git)
 - [GitHub](#github)
 - [CodeHub](#codehub)
@@ -14,7 +14,7 @@ Incore session on Git and GitHub.
 2. GitHub Account
 3. A Text Editor - [VSCode](https://code.visualstudio.com/download)
 
-## Why GitHub?
+## Why Git or GitHub?
 - What is Git?
 - What is GitHub?
 - Importance
