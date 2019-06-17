@@ -116,6 +116,6 @@ git stash
 git stash clear
 
 git reset HEAD
-git reset ^HEAD
+git reset HEAD^
 git reset --hard
 ```
