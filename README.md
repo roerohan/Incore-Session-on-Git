@@ -11,7 +11,7 @@ Incore session on Git and GitHub.
 
 ## Requirements
 1. [git](https://git-scm.com/downloads)
-2. GitHub Account
+2. [GitHub Account](https://education.github.com/pack)
 3. A Text Editor - [VSCode](https://code.visualstudio.com/download)
 
 ## Why Git or GitHub?
