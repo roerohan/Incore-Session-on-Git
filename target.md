@@ -6,3 +6,7 @@ Changes are to be made on this file, not on README.md
 ## Make Changes below.
 
 
+- Rohan
+- Ashikka
+- Soham
+- Yash
