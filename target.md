@@ -10,3 +10,4 @@ Changes are to be made on this file, not on README.md
 - Ashikka
 - Soham
 - Yash
+- Prannay
